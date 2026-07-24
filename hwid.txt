@@ -1,0 +1,6 @@
+JFX425034[2453958899803429963]-209F5-167ED-F1604-66FS9 =
+[WMIC csproduct UUID] N/A
+[WMIC Disk Serial] N/A
+[PowerShell CIM UUID] N/A
+[Registry MachineGuid] N/A
+[HWID] X2SALAH
